@@ -1,6 +1,7 @@
 class school
 {
  abcd;
+ abcd2;
 
 void bublesort()
 {}
